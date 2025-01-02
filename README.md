@@ -3,7 +3,8 @@
 ## Participants
 
 | Name   | USN        |
-|--------|------------|
+|--Sevanthi 1DA24EC132
+------|------------|
 | Suhas A| 1DA22CS165 |
 | Sujan P| 1DA22CS167 |
 | Sharan Reddy M| 1DA22CS145|
